@@ -12,7 +12,6 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=a04k&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
 </div>
 
 ###
