@@ -12,11 +12,7 @@
 
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a04k&show_icons=true&theme=dark&locale=en&layout=compact" alt="a04k" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a04k&show_icons=true&theme=dark&locale=en" alt="a04k" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a04k&theme=dark" alt="a04k" /></p>
+  <img src="https://streak-stats.demolab.com?user=a04k&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
 </div>
 
 ###
