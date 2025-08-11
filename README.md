@@ -9,5 +9,5 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=a04k&theme=neon-dark&border_radius=42&mode=weekly)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=a04k&theme=neon-dark&border_radius=42&mode=weekly)](https://git.io/streak-stats)
 ###
