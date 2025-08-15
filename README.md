@@ -9,5 +9,5 @@
 
 
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=a04k&theme=neon-dark&border_radius=42&mode=weekly)](https://git.io/streak-stats) ![a04k's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a04k&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=wide)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=a04k&theme=neon-dark&border_radius=42&mode=weekly)](https://git.io/streak-stats) 
 ###
