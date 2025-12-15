@@ -1,5 +1,5 @@
 ## 🚀 hi there
-  cs student @ ain shams university, you'll find me writing horrible code every now and then 
+  cs student @ ain shams university, you'll find me writing (sometimes horrible) code every now and then 
     
 
 # 💻 Tech Stack + Tools:
